@@ -9,27 +9,32 @@
 <img src= "homepage.jpg"/>
 ---
 
-[Company Sales Data](/sample_page)
+[Data Analysis Covid Results](/sample_page)
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
-[Company Sales Presentation](dashboard.jpg) 
+[Company Sales Presentation]
 <img src="dashboard.jpg"/>
 ---
-[Geoprocessing Model](/pdf/sample_presentation.pdf)
+[Data Warehouse Creation](/pdf/sample_presentation.pdf)
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
-[Global Sales]
+[Mason Lost and Found Web Application ]
+<img src="images/titanic.png?raw=true"/>
+
+---
+[Graduation Web Application]
 <img src="images/titanic.png?raw=true"/>
 
 ---
 
-### Category Name 2
+# Project Links
 
 - [Nail Salon Website](http://example.com/)
 - [Data Analysis Covid Results](http://example.com/)
 - [Tic-Tac-Toe Game](http://example.com/)
+- [Company Sales Presentation](http://example.com/)
 - [Data Warehouse Creation](http://example.com/)
 - [Mason Lost and Found Web Application ](http://example.com/)
 - [Graduation Web Application](http://example.com/)
