@@ -13,10 +13,10 @@
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
-[Company Sales Presentation](sample_page.md)
+[Company Sales Presentation](company_page.md)
 <img src="dashboard.jpg"/>
 ---
-[Data Warehouse Creation](/pdf/sample_presentation.pdf)
+[Data Warehouse Creation](data_warehouse_page.md)
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
@@ -29,15 +29,15 @@
 
 ---
 
-# Project Links
+# Project Source Code Link 
 
-- [Nail Salon Website](http://example.com/)
-- [Data Analysis Covid Results](http://example.com/)
+- [Nail Salon Website](https://github.com/caroline-bh-do)
+- [Data Analysis Covid Results](https://github.com/caroline-bh-do/covid_results/)
 - [Tic-Tac-Toe Game](http://example.com/)
-- [Company Sales Presentation](http://example.com/)
-- [Data Warehouse Creation](http://example.com/)
-- [Mason Lost and Found Web Application ](http://example.com/)
-- [Graduation Web Application](http://example.com/)
+- [Company Sales Presentation](https://github.com/caroline-bh-do)
+- [Data Warehouse Creation](https://github.com/caroline-bh-do)
+- [Mason Lost and Found Web Application ](https://github.com/caroline-bh-do/mason-lost-and-found)
+- [Graduation Web Application](https://github.com/caroline-bh-do)
 
 ---
 
