@@ -4,12 +4,12 @@
 
 ### Projects 
 
-[Nail Salon Website](sample_page.md)
+[Nail Salon Website](nail_salon_page.md)
 <br>
 <img src= "homepage.jpg"/>
 ---
 
-[Data Analysis Covid Results](sample_page.md)
+[Data Analysis Covid Results](data_analysis_covid_page.md)
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
@@ -20,11 +20,11 @@
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
-[Mason Lost and Found Web Application](sample_page.md)
+[Mason Lost and Found Web Application](mason_page.md)
 <img src="masonpage.jpg"/>
 
 ---
-[Graduation Web Application](sample_page.md)
+[Graduation Web Application](graduation_page.md)
 <img src="graduationpage.jpg"/>
 
 ---
