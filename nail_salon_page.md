@@ -20,7 +20,7 @@ __Testimonials:__ Real customer testimonials and reviews are featured on the web
 
 __Contact Form:__ For inquiries or specific requests, customers can easily reach out through a contact form on the website. This feature ensures a prompt and convenient communication channel between the salon and its clientele.
 
-#Benefits:
+__Benefits:__
 
 __Enhanced Customer Experience:__ The Bella Beach Nail Spa website simplifies the customer journey, making it easy for clients to discover services, book appointments, and access essential information.
 
