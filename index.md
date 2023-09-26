@@ -9,22 +9,22 @@
 <img src= "homepage.jpg"/>
 ---
 
-[Data Analysis Covid Results](/sample_page)
+[Data Analysis Covid Results](sample_page.md)
 <br>
 <img src= "images/combinedgraphs1.png?raw=true"/>
 ---
-[Company Sales Presentation]
+[Company Sales Presentation](sample_page.md)
 <img src="dashboard.jpg"/>
 ---
 [Data Warehouse Creation](/pdf/sample_presentation.pdf)
 <img src="images/geoprocessing1.png?raw=true"/>
 
 ---
-[Mason Lost and Found Web Application ]
+[Mason Lost and Found Web Application](sample_page.md)
 <img src="masonpage.jpg"/>
 
 ---
-[Graduation Web Application]
+[Graduation Web Application](sample_page.md)
 <img src="graduationpage.jpg"/>
 
 ---
