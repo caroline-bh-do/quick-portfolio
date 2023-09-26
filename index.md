@@ -21,11 +21,11 @@
 
 ---
 [Mason Lost and Found Web Application ]
-<img src="images/titanic.png?raw=true"/>
+<img src="masonpage.jpg"/>
 
 ---
 [Graduation Web Application]
-<img src="images/titanic.png?raw=true"/>
+<img src="graduationpage.jpg"/>
 
 ---
 
