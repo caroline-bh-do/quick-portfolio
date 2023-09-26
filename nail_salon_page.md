@@ -1,10 +1,10 @@
 
 **Project description:** Bella Beach Nail Spa Website
 
-#Overview:
+__Overview:__
 The Bella Beach Nail Spa website is an innovative digital solution designed to enhance the customer experience and streamline business operations for a modern nail salon. This comprehensive website aims to provide customers with easy access to essential information, including service details, appointment booking capabilities, and store hours. Bella Beach Nail Spa recognizes the importance of a strong online presence in today's competitive market and is committed to delivering an exceptional user experience through this website.
 
-#Key Features:
+__Key Features:__
 
 __Service Menu:__ The website prominently features a detailed service menu that showcases the range of nail and spa treatments available. Customers can explore various options, from manicures and pedicures to nail extensions and custom designs, with accompanying descriptions and pricing details.
 
